@@ -21,8 +21,8 @@ This project aims to raise awareness about road safety by implementing creative 
  source. Using: [roboflow.com](roboflow.com)
 
 <p float="left">
-  <img src="https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/ca7ba8a1-3075-494d-8121-60e6280db2a4" width="485" height="440" >
-  <img src="https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/04c8201d-d7d0-4a9b-b1d7-13e6cf495a58" width="485" height="440" >
+  <img src="https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/ca7ba8a1-3075-494d-8121-60e6280db2a4" width="400" height="400" >
+  <img src="https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/04c8201d-d7d0-4a9b-b1d7-13e6cf495a58" width="400" height="400" >
 </p>
 
 <br clear="right"/>
@@ -54,9 +54,10 @@ This chart shows the details of the previous video:
 
 ## Example of speed estimation on our cars:
 
-https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/cd7b0016-cefd-4674-ab2e-825ee7bf294c
+https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/ebfa7bfa-8d57-4078-9d84-4715387af54c
 
-You will find other videos in the results folder.
+
+## **_NOTE:_** You will find other videos in the results folder.
 
 ## Acknowledgements
 
