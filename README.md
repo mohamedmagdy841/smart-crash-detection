@@ -29,6 +29,7 @@ This project aims to raise awareness about road safety by implementing creative 
 
 ## 3-Data Augmentation
 + Augmentation performs transforms on your existing images to create new variations and increase the number of images in your dataset. This ultimately makes models more accurate across a broader range of use cases.
+  
  ![image](https://github.com/mohamedmagdy841/smart-crash-detection/assets/64127744/538a57a4-1281-4a43-9f0d-2f501ab71e27)
 
 ## 4-Training the model
